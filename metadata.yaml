@@ -1,0 +1,37 @@
+_repo: History-of-American-Abolitionism_35693
+_version: 0.1.0
+alternative_title: American abolitionism, from 1787 to 1861. A compendium of historical
+  facts, embracing legislation in Congress and agitation without
+covers:
+- cover_type: archival
+  image_path: 35693-h/images/cover.jpg
+creator:
+  author:
+    agent_name: De Fontaine, F. G. (Felix Gregory)
+    aliases:
+    - Fontaine, Felix G. (Felix Gregory)
+    - De Fontaine, Felix Gregory
+    - Fontaine, F. G. de (Felix Gregory)
+    birthdate: 1832
+    deathdate: 1896
+    gutenberg_agent_id: '37839'
+    url: http://www.gutenberg.org/2009/agents/37839
+description: ''
+gutenberg_issued: '2011-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35693'
+  lccn: 04020568
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E300'
+- !lcsh 'Antislavery movements -- United States'
+title: "History of American Abolitionism\r\nIts four great epochs, embracing narratives\
+  \ of the ordinance of 1787, compromise of 1820, annexation of Texas, Mexican war,\
+  \ Wilmot proviso, negro insurrections, abolition riots, slave rescues, compromise\
+  \ of 1850, Kansas bill of 1854, John Brown insurrection, 1859, valuable statistics,\
+  \ &c., &c., &c., together with a history of the Southern Confederacy."
+url: http://www.gutenberg.org/ebooks/35693
