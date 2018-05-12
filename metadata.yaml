@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '37839'
     url: http://www.gutenberg.org/2009/agents/37839
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/35693#History-of-American-Abolitionism
 gutenberg_issued: '2011-03-27'
 gutenberg_type: Text
 identifiers:
